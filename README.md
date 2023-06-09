@@ -42,7 +42,6 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 <a href="https://www.loom.com/share/e83b5f01b89b4459b939a40bfd691830">
-    <p>Flixster Project: SITE Week 1 - Watch Video</p>
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e83b5f01b89b4459b939a40bfd691830-with-play.gif">
   </a>
 
