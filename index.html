@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dina's Flixster Project</title>
+
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <h1> Flixster Movies! </h1>
+
+    <h2> Now Playing </h2>
+
+    <form id = "search-form">
+        <label for = "search-form">Search for a movie:</label>
+        <input type = "text" id = "search-input" name = "search-input" placeholder = "Type Here!" required>
+        <button type = "button" id = "close-search-btn">Click to Exit</button>
+    </form>
+
+    <br>
+
+    <div class = "movies-grid now-playing">
+        
+    </div>
+
+    <div class = "movies-grid search hidden">
+        
+    </div>
+
+    <button type="button" id = "load-more-movies-btn">Click Me for More Movies!</button>
+</body>
+</html>
